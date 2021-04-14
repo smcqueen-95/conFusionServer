@@ -29,6 +29,7 @@ Software Developer and aspiring Game Developer
 
 - Express server
 - NodeJS
+- MongoDB
 
 # Project setup
 
@@ -54,7 +55,23 @@ npx npm-check-updates -u
 
 # Backend Start Up
 
-The backend can be tested using [Postman](https://www.postman.com/downloads/)
+Go to [MongDB Installation](https://docs.mongodb.com/manual/installation/) and follow the instructions to install MongoDB on your system.
+
+Go to the MongoDB folder in your terminal and run 
+
+`
+mongod --dbpath=data --bind_ip 127.0.0.1
+`
+to start the Mongo Server
+
+Go to the backend of your project and run 
+
+`
+npm start
+`
+to view the results of your code in the console. 
+
+The backend can be tested using [Postman](https://www.postman.com/downloads/) with GET, PUT, POST, DELETE
 
 ### Compiles and hot-reloads for development
 
