@@ -54,11 +54,7 @@ npx npm-check-updates -u
 
 # Backend Start Up
 
-`
-npm run start
-`
-
-Which starts the node index
+The backend can be tested using [Postman](https://www.postman.com/downloads/)
 
 ### Compiles and hot-reloads for development
 
