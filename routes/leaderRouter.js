@@ -3,6 +3,7 @@ const bodyParser = require("body-parser");
 const mongoose = require("mongoose");
 
 const Leaders = require("../models/leaders");
+var passport = require("passport");
 
 const leaderRouter = express.Router();
 
