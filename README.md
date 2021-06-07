@@ -10,9 +10,7 @@ Name: Samira Mc Queen
 Free Spririted Caribbean Woman.
 Software Developer and aspiring Game Developer
 
-# Project 
-
-![Video](./src/assets/images/angular.gif)
+![Certification](public/assets/nodejs.jpeg)
 
 ## Experience with Project
 
