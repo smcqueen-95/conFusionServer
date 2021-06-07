@@ -11,9 +11,6 @@ Free Spririted Caribbean Woman.
 Software Developer and aspiring Game Developer
 
 ![Certification](public/assets/nodejs.jpeg)
-# Project 
-
-![Video](./src/assets/images/angular.gif)
 
 ## Experience with Project
 
